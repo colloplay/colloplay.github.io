@@ -1,16 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to colloplay
 
-You can use the [editor on GitHub](https://github.com/colloplay/colloplay.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+ The data managers of the momemt.
+ Our services include 
+  developing strategies for analyzing data, 
+  preparing data for analysis, 
+  exploring, analyzing, and visualizing data, 
+  building models with data using programming languages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### projects.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+we do projects publishing and creditation.
 # Header 1
 ## Header 2
 ### Header 3
